@@ -6,9 +6,9 @@
 
 <p>I’m exploring different paths **:**</p>
 <ul>
-        - First **Developing websites and mobile applications**
-        - Second **DevOps**
-        - Third **Artificial Intelligence** 
+        <li> First **Developing websites and mobile applications**</li>
+        <li>Second **DevOps**</li>
+        <li>Third **Artificial Intelligence** </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
