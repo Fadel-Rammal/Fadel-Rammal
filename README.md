@@ -4,11 +4,11 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadel-rammal&label=Profile%20views&color=0e75b6&style=flat" alt="fadel-rammal" /> </p>-->
 
 
-<p>I’m exploring different paths **:**</p>
+<p>I’m exploring different paths <strong>:</strong></p>
 <ul>
-        <li> First **Developing websites and mobile applications**</li>
-        <li>Second **DevOps**</li>
-        <li>Third **Artificial Intelligence** </li>
+        <li> First <strong> Developing websites and mobile applications</strong></li>
+        <li>Second <strong>DevOps</strong></li>
+        <li>Third <strong>Artificial Intelligence</strong> </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
