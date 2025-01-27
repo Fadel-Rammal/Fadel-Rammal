@@ -20,7 +20,9 @@
 
 
         
-   <p align= "center" > Reach me via fadellrammal@gmail.com </p>
+ <p align="center">
+  <a href="mailto:fadellrammal@gmail.com">Reach me via fadellrammal@gmail.com</a>
+</p>
 
 
 
