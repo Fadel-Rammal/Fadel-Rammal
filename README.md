@@ -18,11 +18,11 @@
 <a href="www.linkedin.com/in/fadell-rammall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadel rammal" height="30" width="40" /></a>
    </p> -->
 
-<p align="center"> 
-        
-   Reach me via fadellrammal@gmail.com 
 
-</p>
+        
+   <h6 align= "center" > Reach me via fadellrammal@gmail.com </h6>
+
+
 
 
 <h3 align="center">Languages:</h3>
