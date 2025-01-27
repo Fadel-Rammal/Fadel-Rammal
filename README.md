@@ -20,7 +20,7 @@
 
 
         
-   <h6 align= "center" > Reach me via fadellrammal@gmail.com </h6>
+   <p align= "center" > Reach me via fadellrammal@gmail.com </p>
 
 
 
