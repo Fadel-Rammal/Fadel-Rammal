@@ -19,7 +19,7 @@
    </p> -->
 
 <p align="center"> 
-        Reach me via fadellrammal@gmail.com 
+Reach me via fadellrammal@gmail.com 
 </p>
 
 
