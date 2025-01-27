@@ -21,7 +21,7 @@
 
         
  <p align="center">
-  <a href="mailto:fadellrammal@gmail.com">Reach me via fadellrammal@gmail.com</a>
+  Reach me via <a href="mailto:fadellrammal@gmail.com">fadellrammal@gmail.com</a>
 </p>
 
 
